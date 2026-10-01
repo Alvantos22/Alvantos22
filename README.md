@@ -19,7 +19,7 @@ Tengo interés por todo lo tecnologico: inteligencia artificial, desarrollo, sis
 
 ## ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,vscode,linux,windows" />
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,androidstudio,unity,linux,windows" />
 </div>
 
 ---
